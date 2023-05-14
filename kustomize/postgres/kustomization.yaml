@@ -1,4 +1,4 @@
-namespace: postgres-operator
+namespace: poofycow
 
 resources:
 - postgres.yaml
