@@ -9,6 +9,10 @@ spec:
       databases:
         - reminderbot
       options: "SUPERUSER"
+    - name: poofycow
+      databases:
+        - poofycow
+      options: "SUPERUSER"
   postgresVersion: 15
   instances:
     - name: instance1
