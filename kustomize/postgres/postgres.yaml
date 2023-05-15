@@ -13,6 +13,10 @@ spec:
       databases:
         - poofycow
       options: "SUPERUSER"
+    - name: inventorize
+      databases:
+        - inventorize
+      options: "SUPERUSER"
   postgresVersion: 15
   instances:
     - name: instance1
